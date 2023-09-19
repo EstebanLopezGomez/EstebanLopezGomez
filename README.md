@@ -1,7 +1,17 @@
-### Esteban Lopez Gomez's git profile
+# Esteban Lopez Gomez's git profile
 🌱 Currently studying at HEIG-VD 
+
+## ⚡ Working on : 
+* Game APP about music
+* Websites
+
 ## ✨ Worked on : 
-Creating a website for an e-sports team (CryptoEsports)
+* Creating a website for an e-sports team (CryptoEsports)
+
+## 🔭 Hobbys 
+* Videogames
+* Programming
+* TV Series / Movies
 
 <!--
 **EstebanLopezGomez/EstebanLopezGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
